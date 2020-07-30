@@ -1,0 +1,3 @@
+# SpanishNewsScrapper
+
+As an avid language learner (Spanish being the language I am currently studying) I like to keep up with the news to help with my reading skills. El País is a newspaper based in Spain that I enjoy to read. With this, I figured it might be a fun idea to use webscrapping to retrieve all of the articles off of the 'tecnología' section that I frequent the most and put them together in a .csv file.
